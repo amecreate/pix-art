@@ -2,4 +2,4 @@
 pixel art for various game jams
 
 
-All Rights Reserved
+All Rights Reserved 2021
